@@ -1,0 +1,6 @@
+c:\users\pepi\documents\visual studio 2015\Projects\Apples\Apples\bin\Debug\Apples.exe.config
+C:\Users\Pepi\Documents\Visual Studio 2015\Projects\Apples\Apples\bin\Debug\Apples.exe
+C:\Users\Pepi\Documents\Visual Studio 2015\Projects\Apples\Apples\bin\Debug\Apples.pdb
+C:\Users\Pepi\Documents\Visual Studio 2015\Projects\Apples\Apples\obj\Debug\Apples.csprojResolveAssemblyReference.cache
+C:\Users\Pepi\Documents\Visual Studio 2015\Projects\Apples\Apples\obj\Debug\Apples.exe
+C:\Users\Pepi\Documents\Visual Studio 2015\Projects\Apples\Apples\obj\Debug\Apples.pdb
